@@ -37,3 +37,7 @@ miniupnpc 라이브러리
 * **AI Assistance:** Some features and code structures were created with the assistance of AI technology.
 * **Responsibility:** If any critical problems arise from this program, the repository may be taken down without prior notice.
 * This software is distributed under the MIT License. The copyright holder disclaims any liability for any claims, damages, or other liabilities arising from the use of this software.
+
+
+
+
