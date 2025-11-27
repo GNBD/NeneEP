@@ -32,4 +32,8 @@ miniupnpc 라이브러리
 
 ``python NeneEP.py``
 
-이 프로그램은 miniupnpc (BSD License) 라이브러리를 포함하고 있습니다.
+⚠️ 면책 조항 및 라이선스
+* 이 프로그램은 miniupnpc (BSD License) 라이브러리를 포함하고 있습니다.
+* * **AI Assistance:** Some features and code structures were created with the assistance of AI technology.
+* * **Responsibility:** If any critical problems arise from this program, the repository may be taken down without prior notice.
+* This software is distributed under the MIT License. The copyright holder disclaims any liability for any claims, damages, or other liabilities arising from the use of this software.
