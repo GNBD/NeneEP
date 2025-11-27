@@ -25,9 +25,11 @@ Python 3.x
 miniupnpc 라이브러리
 
 라이브러리 설치
+
 ``pip install miniupnpc``
 
 실행
+
 ``python NeneEP.py``
 
 이 프로그램은 miniupnpc (BSD License) 라이브러리를 포함하고 있습니다.
