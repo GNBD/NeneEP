@@ -32,6 +32,8 @@ miniupnpc 라이브러리
 
 ``python NeneEP.py``
 
+* 이 소프트웨어는 miniupnpc 라이브러리를 사용합니다.
+
 ## ⚠️ Disclaimer & License
 
 * **AI Assistance:** Some features and code structures were created with the assistance of AI technology.
