@@ -1,9 +1,8 @@
+#Nene EasyPort 🪶
 
-Nene EasyPort 🪶
+>Nene EasyPort는 마크서버 초보운영자들을 위한 초간단 UPnP 포트 포워딩 도구입니다. 복잡한 공유기 설정 없이 버튼 하나로 25565 포트를 개방할 수 있습니다.
 
-Nene EasyPort는 마크서버 초보운영자들을 위한 초간단 UPnP 포트 포워딩 도구입니다. 복잡한 공유기 설정 없이 버튼 하나로 25565 포트를 개방할 수 있습니다.
-
-(공유기에서 UPnP 기능이 활성화 되어있어야합니다. (보통기본으로 활성화되어있음))
+>(공유기에서 UPnP 기능이 활성화 되어있어야합니다. (보통기본으로 활성화되어있음))
 
 <img width="398" height="652" alt="image" src="https://github.com/user-attachments/assets/aac2635a-e4f5-4eec-b1e5-0947fecac450" />
 
